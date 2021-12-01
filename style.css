@@ -1,3 +1,4 @@
+
 .nav-link{
     color: #f0d8aa !important;
 font-family : times new roman;
@@ -6,4 +7,19 @@ font-weight: bolder;
 
 .navbar-brand{
     justify-self: end;
+}
+#navbar{
+    background-color: transparent !important;
+    position: absolute;
+    width: 100%;
+   
+}
+.hero{
+    background-image: url("assets/images/Copie\ de\ key_art_chapter_one_4K.jpg");
+    background-size: cover;
+background-repeat: no-repeat;
+height: 100vh;
+}
+.navbar-toggler{
+    background-color:#f0d8aa ;
 }
