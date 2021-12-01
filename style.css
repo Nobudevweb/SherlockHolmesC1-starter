@@ -1,0 +1,9 @@
+.nav-link{
+    color: #f0d8aa !important;
+font-family : times new roman;
+font-weight: bolder;
+}
+
+.navbar-brand{
+    justify-self: end;
+}
